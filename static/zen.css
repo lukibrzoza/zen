@@ -1,0 +1,58 @@
+body{
+    background-image: url('cloods.png');
+    background-color: white;
+}
+
+p{
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-size: 25px;
+}
+
+h1{
+    position: sticky;
+    top: 0;
+    background-color: yellow;
+    color: black;
+    border: 2px solid magenta;
+}
+
+h2{
+    text-align: center;
+    color: #F5B800;
+    background-color: #003300;
+}
+
+h3{
+    text-align: right;
+    color: #00FFFF;
+    background-image: url('nyan.png');
+}
+
+footer{
+    background-color: lime;
+}
+
+#zen-intro{
+    text-align: right;
+    display: block;
+    margin: 25px 150px;
+}
+
+#zen-summary{
+    color: brown;
+}
+
+#zen-preamble{
+    text-align: center;
+    padding: 75px;
+    border: 5px solid yellow;
+}
+
+#design-selection{
+    margin: 25px 300px;
+}
+
+#design-selection li:hover{
+    background-color: green;
+    color: yellow;
+}
